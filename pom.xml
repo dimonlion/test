@@ -9,7 +9,7 @@
   <spring-version>4.3.9.RELEASE</spring-version>
  
    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  <hibernate-version>4.3.11.Final</hibernate-version>
+  <hibernate-version>4.3.11.Final</hibernate-version> 
   <java-version>1.8</java-version>
   </properties>
   <dependencies>
